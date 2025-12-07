@@ -3,42 +3,49 @@
 A collection of beginner-friendly and intermediate Data Science & Machine Learning projects.
 Each project includes:
 
-Clean code
+✔️ Clean Code
 
-Dataset
+✔️ Dataset
 
-README explanation
+✔️ README explanation
 
-Visualizations
+✔️ Visualizations
 
-Predictive models
+✔️ ML Models
 
 🚢 1. Titanic Survival Prediction
 
-Predicting passenger survival using Logistic Regression.
+Goal: Predict passenger survival using Logistic Regression.
+Skills Used: Pandas, NumPy, Logistic Regression, Data Cleaning
 📁 Folder: /Titanic
 
-🦠 2. COVID-19 Analysis
+🦠 2. COVID-19 Data Analysis
 
-Visualizing new cases & deaths using matplotlib.
+Goal: Visualize COVID-19 new cases & deaths trend in India.
+Skills Used: Pandas, Matplotlib, Data Visualization
 📁 Folder: /Covid-Analysis
 
 🏠 3. House Price Prediction
 
-Predicting house prices using Linear Regression.
+Goal: Predict house prices using Linear Regression.
+Skills Used: Pandas, Sklearn, Regression Models
 📁 Folder: /House-Price
 
-🧠 Skills Used
+🧠 Tech Skills
 
 Python
 
-Pandas, NumPy
+Pandas
+
+NumPy
 
 Matplotlib
 
-Machine Learning Basics
+Scikit-learn
 
-Data Cleaning
+Data Cleaning & EDA
+
+Machine Learning Basics
 
 📞 Contact
 

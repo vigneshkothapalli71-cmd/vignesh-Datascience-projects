@@ -1,55 +1,45 @@
-📊 Data Science Projects by Vignesh Kothapalli
 
-A collection of beginner-friendly and intermediate Data Science & Machine Learning projects.
+# 📘 Data Science Projects by Vignesh Kothapalli
+
+A collection of beginner-friendly and intermediate Data Science & Machine Learning projects.  
 Each project includes:
 
-✔️ Clean Code
+✔ Clean Code  
+✔ Dataset  
+✔ README explanation  
+✔ Visualizations  
+✔ ML Models  
 
-✔️ Dataset
+---
 
-✔️ README explanation
+## **1. Titanic Survival Prediction**
+**Goal:** Predict passenger survival using Logistic Regression.  
+**Dataset:** Kaggle Titanic dataset  
+📁 **Folder:** [Titanic](Titanic/)  
 
-✔️ Visualizations
+---
 
-✔️ ML Models
+## **2. COVID-19 Data Analysis**
+**Goal:** Analyze trends in COVID-19 cases, recoveries, and deaths.  
+**Tools:** Pandas, Matplotlib  
+📁 **Folder:** [Covid-Analysis](Covid-Analysis/)  
 
-🚢 1. Titanic Survival Prediction
+---
 
-Goal: Predict passenger survival using Logistic Regression.
-Skills Used: Pandas, NumPy, Logistic Regression, Data Cleaning
-📁 Folder: /Titanic
+## **3. House Price Prediction**
+**Goal:** Predict house prices using regression techniques.  
+**Dataset:** Cleaned CSV file  
+📁 **Folder:** [House-Price](House-Price/)  
 
-🦠 2. COVID-19 Data Analysis
+---
 
-Goal: Visualize COVID-19 new cases & deaths trend in India.
-Skills Used: Pandas, Matplotlib, Data Visualization
-📁 Folder: /Covid-Analysis
+### ⭐ Highlights
+- Well-structured folders  
+- Beginner to intermediate level ML projects  
+- Reproducible code with proper datasets  
+- Suitable for internships, IIT training, and hiring evaluations  
 
-🏠 3. House Price Prediction
+---
 
-Goal: Predict house prices using Linear Regression.
-Skills Used: Pandas, Sklearn, Regression Models
-📁 Folder: /House-Price
-
-🧠 Tech Skills
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Scikit-learn
-
-Data Cleaning & EDA
-
-Machine Learning Basics
-
-📞 Contact
-
-Vignesh Kothapalli
-📧 Email: vigneshkothapalli71@gmail.com
-
-📱 Phone: 6304077209
+### 👨‍💻 Author: *Vignesh Kothapalli*  
+Passionate about Data Science, Machine Learning, and AI.
